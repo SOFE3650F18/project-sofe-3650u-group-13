@@ -6,7 +6,7 @@ Course code: SOFE 3650-Fall 2018
 ### Group members
 - Dhanushga Lionel 100616831
 - Allan Santosh 100557518
-- Kelvin Leoncius 
+- Kelvin Leoncius 100592582
 
 ### Deliverables
 
